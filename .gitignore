@@ -1,0 +1,27 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+
+# SBOM outputs
+sbom*.json
+sbom*.xml
+
+# Scan results
+scan_results/
+reports/
+
+# Downloaded packages
+packages/
+*.whl
+*.tar.gz
+
+# Virtual environments
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
