@@ -445,3 +445,11 @@ GPL-3.0 - See [LICENSE](LICENSE)
 *Protecting software supply chains from modern threats.*
 
 **🛡️ Don't be the next victim. Scan your dependencies now.**
+
+## Who this is for
+
+SupplyGuard is aimed at developers and security teams reviewing dependency risk, typosquatting signals, package metadata, and software bills of materials in authorized environments. Treat findings as triage signals and verify them before taking remediation action.
+
+## Why star this repository
+
+Star this project if software supply-chain security, SBOM generation, package risk analysis, or dependency review is part of your workflow.
